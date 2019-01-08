@@ -14,3 +14,5 @@ export class DadoComponent implements OnInit {
   }
 
 }
+//Nota para crear componentes usar el siguiente comando
+//ng generate component <nombre del componente> en la consola, en la carpeta del proyecto
